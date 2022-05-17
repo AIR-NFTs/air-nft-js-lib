@@ -1,0 +1,24 @@
+{
+   "name": "air-nft-js-lib",
+   "version": "1.0.011",
+   "description": "air nft js sdk for importing on chain data to your interactive nfts ",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/AIR-NFTs/air-nft-js-lib.git"
+   },
+   "keywords": [
+      "NFT",
+      "Web3",
+      "Crypto"
+   ],
+   "author": "c19h3r , Karan Batra",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/AIR-NFTs/air-nft-js-lib/issues"
+   },
+   "homepage": "https://github.com/AIR-NFTs/air-nft-js-lib#readme"
+}
